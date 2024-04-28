@@ -16,8 +16,8 @@
     "@reflexjs/gatsby-theme-base": "^0.6.4",
     "@reflexjs/gatsby-theme-post": "^0.8.4",
     "gatsby": "^2.26.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "typeface-inter": "^3.12.0"
   }
 }
